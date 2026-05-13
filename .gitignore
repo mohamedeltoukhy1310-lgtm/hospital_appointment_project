@@ -1,0 +1,16 @@
+.gitignore
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+redis-data/
+postgres-data/
+*.db
+.DS_Store
+venv/
+env/
+.venv/
+logs/

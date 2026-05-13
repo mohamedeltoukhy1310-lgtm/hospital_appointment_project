@@ -1,0 +1,1 @@
+docker exec ecommerce-backend-db-1 psql -U postgres -d hospital -c "SELECT d.id, u.username, d.first_name, d.last_name, d.specialization FROM doctors d JOIN users u ON d.user_id = u.id;"
