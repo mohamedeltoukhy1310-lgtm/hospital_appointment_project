@@ -1,4 +1,4 @@
-# E-Commerce System Backend
+# hospital System Backend
 
 A FastAPI backend for an online store with product/category management, shopping cart, order placement, inventory updates, JWT authentication, role-based authorization, Redis cache-aside caching, logging, monitoring, API tests, Docker, and a simple frontend.
 
